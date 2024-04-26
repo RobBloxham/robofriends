@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import CardList from '../components/CardList.js';
 import SearchBox from '../components/SearchBox.js'
 import Scroll from '../components/Scroll.js'
-import { render } from '@testing-library/react';
 import './App.css'
 
 
