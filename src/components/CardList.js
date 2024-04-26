@@ -1,6 +1,6 @@
 import react from 'react';
 import Card from './Card'
-import {robots} from './robots'
+import {robots} from '../robots'
 
 const CardList = ({ robots }) => {
     return(
